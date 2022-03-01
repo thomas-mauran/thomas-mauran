@@ -1,7 +1,11 @@
-<h1>Welcome ! :wave:</h1>
+<div align="center"> 
+  
+<h1>Welcome to my github ! :wave:</h1>
+  
+![Alt Text](https://media.giphy.com/media/13UFvD5Pv1xjSU/giphy.gif)
+
 <h2>About me :</h2>
 
-![Alt Text](https://media.giphy.com/media/arxiLc5EiFhja/giphy.gif)
 
 
   <h3>:seedling: My name is Thomas, i'm a 19 yo french developper</H3>
@@ -65,5 +69,6 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+</div>
 
 
