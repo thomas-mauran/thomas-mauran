@@ -12,7 +12,7 @@
   <h3>- I study computer science at the IUT of Montpellier :mortar_board:</h3>
   <h3>- You can learn more about me and my projects on my portfolio 💻 : https://thomasprojects.works/</h3>
   
-<h3>Reach me</h3>
+<h2>Reach me</h2>
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/thomas-mauran-9238371b7/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
   
