@@ -10,8 +10,11 @@
   
   <h3>- My name is Thomas, i'm a 20 yo french developper :cyclone:</H3>
   <h3>- I study DevOps at Polytech Montpellier :mortar_board:</h3>
+  
+  <!-- 
   <h3>- You can learn more about me and my projects on my portfolio 💻 : https://thomasprojects.works/</h3>
   <h3>- My most recent project ⚙️ : https://sphinxquiz.fr/index.php. </h3>
+-->
   
 <h2>Reach me</h2>
 
