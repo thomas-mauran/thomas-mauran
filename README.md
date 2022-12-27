@@ -1,9 +1,7 @@
 <div align="center"> 
-<h1>Welcome to my github profile ! :wave:</h1>
+<h1>Welcome to my github profile ! 🛰️ </h1>
   
 ![Alt Text](https://media.giphy.com/media/13UFvD5Pv1xjSU/giphy.gif)
-
-<h1>:seedling: About me :</h1>
 
 </div>
 
