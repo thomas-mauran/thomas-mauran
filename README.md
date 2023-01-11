@@ -8,11 +8,11 @@
 <h1 align="center">Hi 👋, I'm Thomas Mauran</h1>
 <h3 align="center">A passionate apprentice engineer in DevOps</h3>
 
-- 🔭 I’m currently working on [Polypedia](https://github.com/thomas-mauran/Polypedia)
+- 🔭 I’m currently working on a machile learning project
 
 - 👨‍💻 All of my projects are available on **github**
 
-- 🌱 I’m currently learning **a lot of stuff**
+- 🌱 I’m currently learning **Tensorflow reinforcement machine learning algorithm**
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/thomas-mauran-9238371b7/)
 
