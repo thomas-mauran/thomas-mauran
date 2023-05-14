@@ -62,10 +62,9 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomas-mauran&show_icons=true&locale=en&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thomas-mauran&theme=tokyonight) |
+|---|---|
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-mauran&show_icons=true&locale=en" alt="thomas-mauran" /></p>
-
-<p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-mauran&" alt="thomas-mauran" /></p>
 
 
