@@ -12,11 +12,10 @@ Hi there! I'm **Thomas Mauran**, a passionate apprentice engineer in DevOps. Whe
 
 - 🌱 I’m currently learning **Kotlin**, micro services and assembly
  
-- 🔭 All of my projects are available on **github**
+- 🔭 All of my projects are available on **github** or on my [portfolio](https://thomas-mauran.com/)
  
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/thomas-mauran-9238371b7/)
-Certainly! Here's the information without using a table:
-
+  
 
 ## Skills
 
