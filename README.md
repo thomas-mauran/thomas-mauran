@@ -9,8 +9,6 @@
 
 Hi there! I'm **Thomas Mauran**, a passionate apprentice engineer in DevOps. When I'm not immersed in code, you can find me exploring the latest in technology or enjoying outdoor adventures. 🚀
 
-- ⚠️ **Currently looking out for a summer 2024 internship to validate my engineering degree** !
-
 - 🌱 I’m currently learning **Kotlin**, micro services and assembly
  
 - 🔭 All of my projects are available on **github** or on my [portfolio](https://thomas-mauran.com/)
