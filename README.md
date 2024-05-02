@@ -1,15 +1,8 @@
-<div align="center"> 
-<h1>Welcome to my github profile ! 🛰️ </h1>
-  
-![Alt Text](https://media.giphy.com/media/13UFvD5Pv1xjSU/giphy.gif)
-
-</div>
-
 ## About Me
 
-Hi there! I'm **Thomas Mauran**, a passionate apprentice engineer in DevOps. When I'm not immersed in code, you can find me exploring the latest in technology or enjoying outdoor adventures. 🚀
+Hi there, I'm **Thomas Mauran**, a passionate apprentice computer science engineer. When I'm not immersed in code, you can find me exploring the latest in technology or enjoying the night sky through my telescope 🌌
 
-- 🌱 I’m currently learning **Kotlin**, micro services and assembly
+- 🌱 I’m currently learning rust
  
 - 🔭 All of my projects are available on **github** or on my [portfolio](https://thomas-mauran.com/)
  
@@ -18,7 +11,7 @@ Hi there! I'm **Thomas Mauran**, a passionate apprentice engineer in DevOps. Whe
 
 ## Skills
 
-**Dev**: Rust, C, TypeScript, Python, Go, Kotlin, Java
+**Dev**: Rust, TypeScript, Python, C, Go, Kotlin, Java
 
 **Ops**: Kubernetes, Docker, Github Action, Grafana, ArgoCD, Helm
 
