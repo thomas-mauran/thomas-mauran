@@ -2,7 +2,7 @@
 
 Hi there, I'm **Thomas Mauran**, a passionate apprentice computer science engineer. When I'm not immersed in code, you can find me exploring the latest in technology or enjoying the night sky through my telescope 🌌
 
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning japanese 🇯🇵 and Ops ☁️
  
 - 🔭 All of my projects are available on **github** or on my [portfolio](https://thomas-mauran.com/)
  
@@ -13,7 +13,7 @@ Hi there, I'm **Thomas Mauran**, a passionate apprentice computer science engine
 
 **Dev**: Rust, TypeScript, Python, C, Go, Kotlin, Java
 
-**Ops**: Kubernetes, Docker, Github Action, Grafana, ArgoCD, Helm
+**Ops**: Kubernetes, Docker, Github Action, Grafana, ArgoCD, Helm, Terraform, Ansible
 
 **Frameworks / Libs**: React, VueJS, NestJS
 
