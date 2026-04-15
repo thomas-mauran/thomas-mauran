@@ -1,6 +1,6 @@
 ## About Me
 
-Hi there, I'm **Thomas Mauran**, a passionate apprentice computer science engineer. When I'm not immersed in code, you can find me exploring the latest in technology or enjoying the night sky through my telescope 🌌
+Hi there, I'm **Thomas Mauran**, a passionate computer science engineer. When I'm not immersed in code, you can find me hiking or enjoying the night sky through my telescope 🌌
 
 - 🌱 I’m currently working on [Nihondex](https://nihondex.com) an online platform to learn japanese 🇯🇵
   
